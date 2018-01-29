@@ -4,6 +4,6 @@ To figure out what is gitHub
     <title>Hello World<title/>
     <head/>
       <Body>
-        <h4>My First GitHub Project<h4/>
+        <h1>My First GitHub Project<h1/>
         <body/>
   <html/>
